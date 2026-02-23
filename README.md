@@ -11,7 +11,7 @@ Show all implement commands.
  > rbenv commands
 ````
 
-How to use the detailed command, please refer to the [original rbenv](https://github.com/rbenv/rbenv).
+How to use the detailed command, please refer to the [original rbenv](https://github.com/Unity-Billal-mesloub/rbenv).
 
 
 ## Installation
@@ -22,7 +22,7 @@ Install `rbenv for windows` to your `USERPROFILE` directory.
 1. Clone git repositry
 
     ````
-    > git clone https://github.com/nak1114/rbenv-win.git %USERPROFILE%\.rbenv-win
+    > git clone https://github.com/Unity-Billal-mesloub/rbenv-win.git %USERPROFILE%\.rbenv-win
     ````
 
 2. Config path  
@@ -56,7 +56,7 @@ The scripts is available as open source under the terms of the [MIT License](htt
 Release test is performed in the following procedure.
 
     ````
-    > git clone https://github.com/nak1114/rbenv-win.git <your test dir>
+    > git clone https://github.com/Unity-Billal-mesloub/rbenv-win.git <your test dir>
     > cd <your test dir>/test
     > test.bat
     ````
@@ -65,6 +65,6 @@ This test requires the FireFox.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/nak1114/rbenv-win. 
+Bug reports and pull requests are welcome on GitHub at https://github.com/Unity-Billal-mesloub/rbenv-win. 
 This project is intended to be a safe, welcoming space for collaboration, 
 and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
