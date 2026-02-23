@@ -16,7 +16,7 @@ How to use the detailed command, please refer to the [original rbenv](https://gi
 
 ## Installation
 
-Installer is [here](https://gist.github.com/7ea63204203883c5884d.git).  
+Installer is [here](https://gist.github.com/Unity-Billal-mesloub).  
 Install `rbenv for windows` to your `USERPROFILE` directory.
 
 1. Clone git repositry
